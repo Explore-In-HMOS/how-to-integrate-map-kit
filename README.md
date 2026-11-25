@@ -2,7 +2,7 @@
 
 # How to Integrate Map Kit
 
-A HarmonyOS NEXT application demonstrating end-to-end Map Kit integration with MVVM architecture. Users can explore an interactive map with dynamic map type switching, animated camera movement, real-time tap coordinate display, and map screenshot capture. Built with ArkTS and ArkUI, the project showcases correct `MapComponent` initialization flow, `MapComponentController` lifecycle management, and `MapEventManager` event handling. The clean MVVM structure separates Map Kit API calls into a dedicated service layer, making it easy to extend with additional features like markers, route planning, or location tracking. Perfect for developers learning HarmonyOS NEXT Map Kit integration and reactive state management patterns.
+A HarmonyOS application demonstrating end-to-end Map Kit integration with MVVM architecture. Users can explore an interactive map with dynamic map type switching, animated camera movement, real-time tap coordinate display, and map screenshot capture. Built with ArkTS and ArkUI, the project showcases correct `MapComponent` initialization flow, `MapComponentController` lifecycle management, and `MapEventManager` event handling. The clean MVVM structure separates Map Kit API calls into a dedicated service layer, making it easy to extend with additional features like markers, route planning, or location tracking. Perfect for developers learning HarmonyOS Map Kit integration and reactive state management patterns.
 
 # Preview
 
@@ -50,7 +50,7 @@ A HarmonyOS NEXT application demonstrating end-to-end Map Kit integration with M
 
 ### Supported Devices
 
-- Huawei Watch (HarmonyOS NEXT wearables)
+- Huawei Watch (HarmonyOS wearables)
 
 ***Notes***
 
